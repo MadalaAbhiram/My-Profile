@@ -4,7 +4,7 @@ import heroImg from './assets/OIP.jpg'
 const resume = {
   name: 'M.Abhiram',
   title: 'Full Stack Developer',
-  email: 'madalaabhiram129@email.com',
+  email: 'madalaabhiram129@gmail.com',
   phone: '6305145801',
   location: 'India',
   github: 'github.com/MadalaAbhiram',
